@@ -7,7 +7,7 @@
 
 ### Integrante 2
 - Brando Miguel Palacios Mogollon
-- bpalaciosm@uni.
+- bpalaciosm@uni.pe
 
 ### Integrante 3
 
