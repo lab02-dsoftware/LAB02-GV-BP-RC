@@ -4,3 +4,7 @@
 
 - George Bryan Vera Esquives
 - gverae@uni.pe
+
+### Integrante 2
+- Brando Miguel Palacios Mogollon
+- bpalaciosm@uni.pe
