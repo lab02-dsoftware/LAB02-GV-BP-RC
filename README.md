@@ -7,4 +7,9 @@
 
 ### Integrante 2
 - Brando Miguel Palacios Mogollon
-- bpalaciosm@uni.pe
+- bpalaciosm@uni.
+
+### Integrante 3
+
+- Roberto Alexis Cerna Espiritu
+- roberto.cerna.e@uni.pe
