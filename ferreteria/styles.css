@@ -3,14 +3,17 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin-top: 200px;
+  color: white;
+  margin-top: 180px;
   text-align: center;
 }
-
+body {
+  background-image: url(./ferreteria_1.jpg);
+}
 .starts-center {
   /* background-color:  #46dfc4; */
-  background-image: url(img/success-stories/main_1.jpg);
-  border: 2px solid #0b385f;
+  border: 0px solid #0b385f;
+  
   border-style: ridge;
   margin-top: 30px;
   margin-bottom: 30px;
@@ -22,6 +25,7 @@
 }
 .transbox {
   margin: 30px;
+  
   background-color: rgba(255, 255, 255, 0.4);
   margin-top: 30px;
   margin-bottom: 30px;
@@ -43,7 +47,7 @@
 }
 .gallery {
   margin: 5px;
-  border: 1px solid rgba(255, 255, 255, 0.4);
+  border: 1px solid rgba(255, 255, 255, 0.055);
   width: 180px;
   padding: 20px;
 }
