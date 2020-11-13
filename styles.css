@@ -12,7 +12,7 @@ body {
 .starts-center {
   /* background-color:  #46dfc4; */
   background-image: url(img/success-stories/main_1.jpg);
-  height: 220px;
+  height: 370px;
   border: 2px solid #0b385f;
   border-style: ridge;
   margin-top: 30px;
@@ -23,6 +23,7 @@ body {
   padding: 25px 30px 25px 30px;
 }
 .transbox {
+  text-align: center;
   margin: 30px;
   background-color: rgba(255, 255, 255, 0.4);
   margin-top: 30px;
@@ -70,7 +71,7 @@ body {
    display: flex;
 }
 body{
-  background-image: url(img/success-stories/background.jpg);
+  background-image: url(img/success-stories/main_3.jpg);
 }
 
 /* GV */
