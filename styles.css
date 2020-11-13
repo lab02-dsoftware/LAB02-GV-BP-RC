@@ -4,13 +4,13 @@
   padding: 0;
   font-family: "Quicksand";
 }
-body{
+body {
   background-color: #f2f2f2;
 }
 /* BP */
 
 .starts-center {
- /* background-color:  #46dfc4; */
+  /* background-color:  #46dfc4; */
   background-image: url(img/success-stories/main_1.jpg);
   height: 220px;
   border: 2px solid #0b385f;
@@ -24,7 +24,7 @@ body{
 }
 .transbox {
   margin: 30px;
-  background-color: rgba(255,255,255,0.4);
+  background-color: rgba(255, 255, 255, 0.4);
   margin-top: 30px;
   margin-bottom: 30px;
   margin-right: 60px;
@@ -32,10 +32,10 @@ body{
   border-radius: 1em;
   padding: 10px 40px 10px 40px;
 }
-.transbox h1{
+.transbox h1 {
   background-color: n;
   text-align: center;
-  opacity: 1.0;
+  opacity: 1;
   font-weight: 600;
 }
 .flex {
@@ -44,9 +44,8 @@ body{
 }
 .gallery {
   margin: 5px;
-  border: 1px solid  rgba(255,255,255,0.4);
+  border: 1px solid rgba(255, 255, 255, 0.4);
   width: 180px;
-
 }
 
 .gallery:hover {
@@ -67,5 +66,37 @@ body{
 }
 
 /* GV */
-.gv-producto1 {
+#welcome-section {
+  text-align: center;
+  height: 80vh;
+  background-image: url(./img/welcome/background.jpg);
+  background-position: center;
+  color: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+#welcome-section h2 {
+  font-size: 50px;
+  font-family: "Noto Sans";
+  font-weight: 500;
+  margin-bottom: 25px;
+  font-weight: bold;
+  color: #fff;
+}
+
+#welcome-section input {
+  font-size: 30px;
+  padding: 15px;
+  border-radius: 25px;
+  border-style: none;
+  max-width: 700px;
+  width: 80vw;
+  text-align: center;
+}
+
+#welcome-section input:focus {
+  outline: none;
 }
