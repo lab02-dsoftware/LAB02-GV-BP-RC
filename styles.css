@@ -12,6 +12,14 @@
 
 /* RC */
 .rc-producto1 {
+  color: #fff;
+
+}
+.fila1{
+   display: flex;
+}
+body{
+  background-image: url(img/success-stories/background.jpg);
 }
 
 /* GV */
